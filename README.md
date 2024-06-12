@@ -1,6 +1,10 @@
 # Computer-Vision-Project
 ## Artifictual Intelligence Intern - Medical Image Classification
 
+<p align="center">
+  <img src="interncareers_logo.jpeg" alt="logo">
+</p>
+
 ### Project Description
 This project focuses on developing a deep learning model for image classification to diagnose medical conditions using chest X-ray images. The goal is to classify images as either normal or pneumonia.
 
